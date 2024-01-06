@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: jenkins-pv
+spec:
+  capacity:
+    storage: 5Gi # Adjust the size as needed
+  accessModes:
+    - ReadWriteOnce
+  hostPath:
+    path: D:\Poornima\Jenkins_on_K8s\vol # Path on the Minikube node where the volume will be stored
