@@ -47,6 +47,16 @@ echo "testing"
 ```
 <div align="center"> <a href=""><img src="https://github.com/AsundkarPoornima/Jenkins_on_Minikube_Pods/blob/main/images/test_pipeline.jpg" alt='image' width='800'/></a> </div>
 
+Now, save the job configuration and click “Build Now”
+
+You should see a agent in the build history as shown below.
+<div align="center"> <a href=""><img src="https://github.com/AsundkarPoornima/Jenkins_on_Minikube_Pods/blob/main/images/create_freestyle.jpg" alt='image' width='800'/></a> </div>
+
+In a couple of minutes, you will see a successful build. If you check the logs, it will show you the executed shell.
+<div align="center"> <a href=""><img src="https://github.com/AsundkarPoornima/Jenkins_on_Minikube_Pods/blob/main/images/test_success.jpg" alt='image' width='800'/></a> </div>
+
+
+
 
 
        
