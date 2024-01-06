@@ -16,7 +16,7 @@ access Jenkins on "http://localhost:3000"
 
 ```
 ### Get Jenkins Password
-<div align="center"> <a href=""><img src="C:\Users\sumit\Pictures\Screenshotsjenkins_pass.jpg" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://drive.google.com/file/d/1YQZr_RLfU-WsuMbeBrUEQ94plXdtyJib/view?usp=sharing" alt='image' width='800'/></a> </div>
 
        
 
