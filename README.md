@@ -15,6 +15,8 @@ kubectl port-forward svc/jenkins -n jenkins 3000:8080 --address 0.0.0.0
 access Jenkins on "http://localhost:3000"
 
 ```
+### Get Jenkins Password
+<div align="center"> <a href=""><img src="C:\Users\sumit\Pictures\Screenshotsjenkins_pass.jpg" alt='image' width='800'/></a> </div>
 
        
 
